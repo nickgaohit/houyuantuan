@@ -1,0 +1,100 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "goRole1",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.6,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "3e4f8c9a-c62b-457a-8ad5-772f57335026"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "3e4f8c9a-c62b-457a-8ad5-772f57335026"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "035b0978-6ac0-4a15-95ad-1fdfae99e994"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "3e4f8c9a-c62b-457a-8ad5-772f57335026"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "035b0978-6ac0-4a15-95ad-1fdfae99e994"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "3e4f8c9a-c62b-457a-8ad5-772f57335026"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            576,
+            0
+          ],
+          "motionPath": [
+            [
+              394,
+              130,
+              443,
+              138,
+              376,
+              127
+            ],
+            [
+              321,
+              -52,
+              353,
+              -89,
+              277,
+              -2
+            ],
+            [
+              254,
+              149,
+              276,
+              153,
+              206,
+              143
+            ]
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            235,
+            -54
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}
