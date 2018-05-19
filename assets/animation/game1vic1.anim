@@ -1,12 +1,12 @@
 {
   "__type__": "cc.AnimationClip",
-  "_name": "goSupporter2",
+  "_name": "game1vic",
   "_objFlags": 0,
   "_rawFiles": null,
-  "_duration": 0.08,
+  "_duration": 0.07,
   "sample": 60,
-  "speed": 0.06,
-  "wrapMode": 1,
+  "speed": 0.1,
+  "wrapMode": 2,
   "curveData": {
     "comps": {
       "cc.Sprite": {
@@ -14,19 +14,25 @@
           {
             "frame": 0,
             "value": {
-              "__uuid__": "f00ed280-78e0-4f63-987e-bddfaad8765b"
+              "__uuid__": "2c725b5c-251c-468e-9861-a66e789e9cc4"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "2c725b5c-251c-468e-9861-a66e789e9cc4"
             }
           },
           {
             "frame": 0.03333333333333333,
             "value": {
-              "__uuid__": "f00ed280-78e0-4f63-987e-bddfaad8765b"
+              "__uuid__": "2c725b5c-251c-468e-9861-a66e789e9cc4"
             }
           },
           {
-            "frame": 0.06666666666666667,
+            "frame": 0.05,
             "value": {
-              "__uuid__": "c5a423de-0a03-4b8e-8c54-77c510a2554d"
+              "__uuid__": "2c725b5c-251c-468e-9861-a66e789e9cc4"
             }
           }
         ]
@@ -37,22 +43,29 @@
         {
           "frame": 0,
           "value": [
-            -245,
-            9
+            -210,
+            22
+          ]
+        },
+        {
+          "frame": 0.016666666666666666,
+          "value": [
+            -72,
+            -79
           ]
         },
         {
           "frame": 0.03333333333333333,
           "value": [
-            56,
-            4
+            101,
+            -76
           ]
         },
         {
-          "frame": 0.06666666666666667,
+          "frame": 0.05,
           "value": [
-            304,
-            -69
+            226,
+            -132
           ]
         }
       ]

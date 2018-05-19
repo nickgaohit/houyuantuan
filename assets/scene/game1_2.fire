@@ -294,13 +294,19 @@
       },
       {
         "__uuid__": "bdbc2edb-dc0b-406e-b237-0ceb0377ada5"
+      },
+      {
+        "__uuid__": "982cf6c7-de9c-49a8-b4aa-1b943ab52bc1"
+      },
+      {
+        "__uuid__": "ff5d015d-c099-4493-8287-943b8af9088a"
       }
     ],
     "playOnLoad": false
   },
   {
     "__type__": "cc.Node",
-    "_name": "goRole",
+    "_name": "showtimeAni",
     "_objFlags": 0,
     "_parent": {
       "__id__": 2
@@ -393,6 +399,12 @@
     "_clips": [
       {
         "__uuid__": "41496e14-fcd3-4402-b3ef-7fda0e13d705"
+      },
+      {
+        "__uuid__": "f9a6759e-28f1-4419-b294-e8109f153b03"
+      },
+      {
+        "__uuid__": "9f0310b1-4c17-420f-a426-7dd0b6b061ae"
       }
     ],
     "playOnLoad": false
@@ -513,8 +525,8 @@
     "_scaleY": 1,
     "_position": {
       "__type__": "cc.Vec2",
-      "x": -432,
-      "y": 248
+      "x": -370,
+      "y": 233
     },
     "_skewX": 0,
     "_skewY": 0,
@@ -569,17 +581,37 @@
       "__id__": 2
     },
     "_enabled": true,
+    "pointSpriteArray": [
+      {
+        "__uuid__": "a43b69ba-88dd-44fd-9d37-73b10f8a09a0"
+      },
+      {
+        "__uuid__": "dd2696f1-3588-4a40-a96d-268428469475"
+      },
+      {
+        "__uuid__": "a6d05077-a031-4d30-a66b-b8b586f7a1d4"
+      },
+      {
+        "__uuid__": "a43b69ba-88dd-44fd-9d37-73b10f8a09a0"
+      }
+    ],
+    "pointPrefab": {
+      "__uuid__": "90860441-f22f-4321-8046-30feca1d6bb3"
+    },
     "audio2BG": {
       "__uuid__": "fbc8cc65-5f92-42cb-858d-b661e795a92d"
+    },
+    "scoreAudio": {
+      "__uuid__": "8b76fb3b-eca8-45ea-8855-8c985d1070ad"
     },
     "goSupporter": {
       "__id__": 7
     },
-    "goRole": {
+    "showtimeAni": {
       "__id__": 10
     },
-    "pointPrefab": {
-      "__uuid__": "90860441-f22f-4321-8046-30feca1d6bb3"
+    "scoreFXPrefab": {
+      "__uuid__": "e232ba03-f85c-4dbc-af7b-03cf84d16330"
     },
     "timeCount": {
       "__id__": 12
@@ -587,7 +619,7 @@
     "scoreDisplay": {
       "__id__": 14
     },
-    "maxPointDuration": 1.5,
+    "maxPointDuration": 2,
     "minPointDuration": 1
   }
 ]

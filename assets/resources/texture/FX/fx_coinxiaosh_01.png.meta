@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b028d73e-98a8-42d5-9aa3-71318e2d62d5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "fx_coinxiaosh_01": {
+      "ver": "1.0.3",
+      "uuid": "271a2d0e-c207-4617-8d79-d8b8bda32e2c",
+      "rawTextureUuid": "b028d73e-98a8-42d5-9aa3-71318e2d62d5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 4,
+      "trimY": 3,
+      "width": 72,
+      "height": 74,
+      "rawWidth": 80,
+      "rawHeight": 80,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

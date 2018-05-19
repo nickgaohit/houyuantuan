@@ -1,9 +1,9 @@
 {
   "__type__": "cc.AnimationClip",
-  "_name": "goSupporter2",
+  "_name": "goSupporter3",
   "_objFlags": 0,
   "_rawFiles": null,
-  "_duration": 0.08,
+  "_duration": 0.05,
   "sample": 60,
   "speed": 0.06,
   "wrapMode": 1,
@@ -14,17 +14,17 @@
           {
             "frame": 0,
             "value": {
-              "__uuid__": "f00ed280-78e0-4f63-987e-bddfaad8765b"
+              "__uuid__": "64adcda8-2e7e-47dd-8899-8351386cae22"
             }
           },
           {
-            "frame": 0.03333333333333333,
+            "frame": 0.016666666666666666,
             "value": {
               "__uuid__": "f00ed280-78e0-4f63-987e-bddfaad8765b"
             }
           },
           {
-            "frame": 0.06666666666666667,
+            "frame": 0.03333333333333333,
             "value": {
               "__uuid__": "c5a423de-0a03-4b8e-8c54-77c510a2554d"
             }
@@ -37,23 +37,44 @@
         {
           "frame": 0,
           "value": [
-            -245,
-            9
+            -320,
+            12
+          ],
+          "motionPath": [
+            [
+              -187,
+              -128,
+              -249,
+              -107,
+              -122,
+              -150
+            ]
+          ]
+        },
+        {
+          "frame": 0.016666666666666666,
+          "value": [
+            51,
+            -114
+          ],
+          "motionPath": [
+            [
+              251,
+              -8,
+              185,
+              -88,
+              311,
+              67
+            ]
           ]
         },
         {
           "frame": 0.03333333333333333,
           "value": [
-            56,
-            4
-          ]
-        },
-        {
-          "frame": 0.06666666666666667,
-          "value": [
             304,
-            -69
-          ]
+            197
+          ],
+          "motionPath": []
         }
       ]
     }

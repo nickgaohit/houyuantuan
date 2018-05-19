@@ -1,0 +1,74 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "goSupporter4",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.05,
+  "sample": 60,
+  "speed": 0.06,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9c8f77ac-15ff-4695-a1d5-4c9d6273931c"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "814472c8-21bc-495d-981b-e7cf8984868d"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "814472c8-21bc-495d-981b-e7cf8984868d"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            22,
+            244
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.016666666666666666,
+          "value": [
+            -306,
+            94
+          ],
+          "motionPath": [
+            [
+              55,
+              67,
+              -102,
+              85,
+              185,
+              52
+            ]
+          ]
+        },
+        {
+          "frame": 0.03333333333333333,
+          "value": [
+            276,
+            -106
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}
